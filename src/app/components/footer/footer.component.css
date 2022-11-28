@@ -1,0 +1,20 @@
+ul{
+    list-style:none;
+    gap: 35px;
+    /* padding: 8px; */
+    display: flex;
+    margin-left: 20%;
+    
+    
+    }
+
+a{
+    color: blue;
+    margin-bottom: 2%;
+}
+.copyright{
+    color: none;
+} 
+#logo1{
+    padding-top: 1%;
+} 
